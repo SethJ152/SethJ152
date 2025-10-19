@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SethJ152
-- 👀 I’m interested in python programming and web development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 👀 I’m interested in python, C++ and web development
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: seth.jones1026@icloud.com or 256-505-7015
 
