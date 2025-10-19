@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SethJ152
+- 👋 Hi, I’m Seth Jones
 - 👀 I’m interested in python, C++ and web development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on web development projects
